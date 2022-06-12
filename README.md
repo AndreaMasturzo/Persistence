@@ -7,6 +7,6 @@ Think about all the moments and the opportuinities you let go in your life. All 
 
 Persistence is a constant reminder of never leaving anything behind ourselves. 
 
-I developed this project in pure SwiftUI to test the boundaries of this framework and the new Playground App. The first part is storydriven and suggestive presenting a black screen and minimum user interaction. 
+I developed this project in pure SwiftUI to test the boundaries of this framework and the new Playground App. The first part is story-driven and suggestive presenting a black screen and minimum user interaction. 
 
 This leads to the core, a blackboard with a twist: every line you draw will disappear after a while so the only way to save your work is to keep retracing over and over or to think fast and take a screenshot before everything will fade away.
